@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse: Diet & Gym Tracker",
+  "description": "Track personal fitness goals, meal & water intake, calories, macros, and gym workout routines with progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
